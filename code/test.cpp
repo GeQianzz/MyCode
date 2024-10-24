@@ -10,9 +10,9 @@ int main(){
     listA.push_back(6);
     listA.push_back(7);
     listA.push_back(8);
+    listA.push_back(9);
 
     cout << "The length of listA is: " << listA.size() << endl;
-    
 
     return 0;
 }
