@@ -11,6 +11,7 @@ int main(){
     listA.push_back(7);
     listA.push_back(8);
     listA.push_back(9);
+    listA.push_back(10);
 
     cout << "The length of listA is: " << listA.size() << endl;
 
